@@ -127,5 +127,6 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 
 ## Author
 Aman 
-amanjangra855@gmail.com
+22bcs14835@cuchd.in
+
 
